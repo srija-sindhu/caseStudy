@@ -1,4 +1,4 @@
-
+-- Srija kasinathan
 
 -- Create the database
 CREATE DATABASE TechShop;
